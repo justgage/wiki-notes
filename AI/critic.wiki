@@ -1,0 +1,1 @@
+Tells the [[learning agent]] how well it's doing in respect to a performance standard. 

@@ -1,0 +1,10 @@
+= Error Handling =
+
+Most programing languages only deal with trying to eliminate errors from getting into
+your code. Few ([[Erlang]]) deal with the inevitability that errors will get into your production code
+and give you ways to handle it.
+
+There's also interesting topics about [[try-catch]].
+
+
+

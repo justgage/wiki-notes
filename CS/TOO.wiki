@@ -1,0 +1,13 @@
+= True Object Oriented =
+
+The creator of the ideas behind [[OO]] is ______. And his ideas got implemented in [[Java]].
+
+Focues on _Message Passing_ verses focusing on Objects.
+
+Isoloation instead of Encapsolation. This means not only is the object only deal with itself
+but also only lets others deal with it at a distance. AKA: stays decopled even from things
+that use it. This is not true at all for [[Java]]; However is very true for [[Erlang]] which may
+be the only true object oriented language (and [[Elixir]] by assosiation).
+
+
+

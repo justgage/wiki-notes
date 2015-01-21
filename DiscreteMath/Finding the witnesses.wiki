@@ -1,0 +1,18 @@
+= Finding the witnesses =
+
+Used for finding [[BigO]] values.
+
+Choose the easiest C or K (1 usually)
+
+Book: 2.1, 2.2, 2.3
+
+Smallest K that will work?
+
+
+14n^3 + 3n + 19875
+
+14 + 3 + 19875 = 19892 = C and K = 1
+
+ding!
+
+On [[Test 1]] multiple choice.

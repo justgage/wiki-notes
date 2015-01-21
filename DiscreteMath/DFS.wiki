@@ -1,0 +1,7 @@
+= Depth first search =
+
+Use a [[Stack]].
+
+Go as far as possible to the next unvisted 
+
+[[recursive]] usually

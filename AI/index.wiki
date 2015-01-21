@@ -1,0 +1,20 @@
+= Artificial Intelligence =
+
+[[https://dl.boxcloud.com/bc/4/3e4251a170e1c4c93d9004b22b437e97/KsLJZJfWasLs2JcKhrfdufh7YJsLotHf7iH7ZOAu24WzW29V9CgGlCPHfby5YelUNqAo6is8T4HsKi4N_OeuZv-fVlkHwnBjKPUg7BXkX_vnXbAHg7nurrL2y0DKkyFDpL3VHLiUh_PUM-ljztqEEvmYOhK3UlvDi_L8MccH-guDt0Aba9YLle0xu7P0fqD50yvytUZI8Ym-q-1JM685sG4Calendar|Calendar]]
+
+
+To-Do:
+- [X] Pick a topic!
+- [ ] What's next.
+
+= Projects: =
+- [[Term Paper]]
+- [[Project 1]]
+- [[Project 2]]
+
+= Definitions =
+* Ch 2
+   * [[Rational Agents]]
+   * [[Learning Agents]]
+* Ch 3
+

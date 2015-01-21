@@ -1,0 +1,6 @@
+= Problem Generator =
+
+   "Responsible for suggesting actions that lead to new and informative experiences."
+
+Allows the [[agent]] to [[explore]].
+

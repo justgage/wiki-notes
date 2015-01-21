@@ -1,0 +1,15 @@
+= Java =
+
+A language that takes [[OO]] to an extreme. Used heavily in production.
+
+Pros:
+* Used a lot
+* [[Garbage collection]] which is better than [[C]] style [[Manual Memory mannagement]]
+* Good [[IDEs]] and [[refactoring]] tools.
+
+Cons
+* [[OO]] and not [[TOO]]
+* [[FP]] is painful
+* Native Concurrency is painful (without some good libraries)
+
+

@@ -1,0 +1,5 @@
+= Try-Catch statement =
+
+Many people think it's a bad idea. Why?
+
+Effects the [[honesty]] of code.

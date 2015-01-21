@@ -1,0 +1,12 @@
+= Object Oriented = 
+
+I have very mixed feelings about things being [[Object Oriented]].
+
+Reasons:
+* OO models things as the world works
+   * Good for simulations
+   * Bad for reliablility due to the problems with [[state]]
+* Hides away [[state]].
+* Says nouns are bigger than verbs which often is not the case
+   * Nouns escoting verbs around.
+* Not true to [[TOO]]

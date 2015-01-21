@@ -1,0 +1,13 @@
+= Test 1 =
+
+On test:
+
+- Memorize kanuth's quote:
+
+    Computer Science and Engineering is a field that attracts a different kind of thinker.  I believe that one who is a natural computer scientist thinks algorithmically.  Such people are especially good at dealing with situations where different rules apply in different cases; they are individuals who can rapidly change levels of abstraction, simultaneously seeing things “in the large” and “in the small.”
+
+- [[Finding the witnesses]]
+
+Chapter [[2]] Exersizes are highly helpful
+
+Know [[limits]]

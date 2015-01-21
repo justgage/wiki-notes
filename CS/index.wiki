@@ -1,0 +1,11 @@
+= Computer Science =
+Stuff about
+- [[programing languages]]
+- [[OO|Object Oriented]]
+- [[FP|Functional programing]] / [[PFP]]
+- [[state|State]]
+- [[ErrorHandling]]
+- [[OO]]
+
+[[principles]] of software
+

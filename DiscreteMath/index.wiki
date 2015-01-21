@@ -1,0 +1,30 @@
+= Discrete Math =
+
+- [ ] Review [[log]]
+- [ ] Memorize quote
+- [ ] Exploration [[Mysteriousness]]
+   - [ ] Finnish 2nd part
+   - [ ] Finnish 3rd part
+      - [ ] Ask for help after stuff
+      - [ ] Spend on 3 hours on part 3
+- [ ] In class quiz
+   - [ ] I will review my answers and the correct answers to the two versions of this quiz.
+   - [ ] If I don't have or can't find my answers, I will come talk to Brother Neff to review these quizzes.
+   - [ ] I will review the properties of logarithms in connection with comparing the orders of growth of two logarithmic functions.
+   - [ ] I will review the properties of limits in connection with comparing orders of growth.
+   - [ ] I will review the properties of the derivatives of polynomial and exponential functions.
+
+Book:
+- [[1]]
+- [[2]]
+- [[3]]
+
+Tests:
+- [[Test 1]]
+
+Explorations:
+# [[Mysteriousness]]
+
+
+Class:
+- [[2015-01-20]]

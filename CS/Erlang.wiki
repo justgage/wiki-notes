@@ -1,0 +1,32 @@
+= Erlang =
+
+Refrences:
+* [[Erlang in anger]]
+
+= Object Oriented? = [[OO]]
+
+
+== Comunity == 
+
+"Erlang programmers are a bit similar to Lispers in that they will tend to write libraries
+that will solve their problems and not really test or try them in other circumstances, 
+leaving it to you to extend or fix issues that arise in new contexts.  It’s thus
+pretty much guaranteed you’ll have to go dive in some code base you know"
+~ [[Erlang in anger]]
+
+== OTP ==
+
+=== What is it? ===
+Stands for "Open Telecom Platform!" although now it's more about:
+
+- The OTP framework takes care of [cocurrent application gotchas]
+by grouping these essential practices into a set of libraries that have been 
+carefully engineered and battle- hardened over years. Every Erlang programmer should use 
+them.
+
+<http://learnyousomeerlang.com/what-is-otp>
+
+OTP is set of Erlang libraries and design principles providing middle-ware to 
+develop these systems. It includes its own distributed database, applications 
+to interface towards other languages, debugging and release handling 
+tools.

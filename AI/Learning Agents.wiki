@@ -1,0 +1,6 @@
+= Learning Agents =
+* Build learning machines and then to teach them
+* Allows it to operate in initially unknown [[environment|environments]].
+* A [[learning element]] as well as [[performance element]]
+* Contains a [[critic]]
+* [[problem generator]]

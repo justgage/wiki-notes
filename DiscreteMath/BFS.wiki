@@ -1,0 +1,6 @@
+= Breadth first search =
+
+Usually not recursive
+
+uses a Queue.
+

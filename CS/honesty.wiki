@@ -1,0 +1,5 @@
+= Honesty in code =
+
+You program does what it says it's going to do.
+
+bad eg: "I'll only return Ints (except null, unless I have a [[try-catch]] statement."

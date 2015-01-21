@@ -1,0 +1,7 @@
+= Mutable State =
+
+The unseen enemy of Computer programing.
+
+Bad because it heightens the [[complexity]] of an application by increasing the possible outcomes to an unmanageable number.
+
+Makes [[TDD|testing]] much harder due to this.

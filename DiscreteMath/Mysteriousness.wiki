@@ -1,0 +1,45 @@
+= Mysteriousness =
+
+Thoughts:
+- They are all related
+- Rappidly change levels of Abstraction
+- Pay the price then _come talk to brother Neff_
+
+you create the criteara for the "Goodness of your algorithms"
+
+== Part 1 ==
+Implement ~Figure out~ how to Solve it
+
+== Part 2 ==
+Figure out how to solve it
+
+Factorization helps with melt
+
+Can't have duplicate values
+
+then use systems for solving linear equations [[Linear Algorithms]]
+
+Groups of letters that equal! eg: (P + L + N)
+
+
+=== Algorithm 1 ===
+Randomly choose numbers for all letters
+
+=== Algorithm 2 ===
+
+Information we can gather:
+- GCD will find the starting number for c if all c is the same (same for v)
+   - works when lots of similar words
+- Find both divisors
+
+
+=== Algorithm 3 ===
+
+
+== Part 3 ==
+Figure out what the question is.
+
+- Pray! (about the algorithm) 
+
+
+

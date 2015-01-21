@@ -1,0 +1,12 @@
+= Programing Languages =
+* [[FP]]
+   * [[Haskell]]
+   * [[Erlang]] / [[Elixir]]
+* [[Imperative]] 
+   * [[OO]]
+      * [[Java]]
+      * [[C++]]
+   * Other:
+      * [[Go]]
+* [[Procedural]]
+   * [[C]]

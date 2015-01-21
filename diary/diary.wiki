@@ -1,0 +1,7 @@
+= Diary =
+
+== 2015 ==
+
+=== January ===
+   * [[2015-01-14|One does not simply get people to use Markdown]]
+

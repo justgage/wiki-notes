@@ -1,0 +1,14 @@
+= One does not simply get people to use Markdown =
+
+Man, my team. I've wanted so badly to rid myself of the chains of Word documents forever. Their messy and waste my time. Yet despite me describing all the details of this to my team _who are programmers_ of the evils of it and why we should use Github they begin (mostly one guy) to argue and instantly revert to Google Docs. It's quite frustrating no doubt. Not to mention I feel like I'm one of the only ones that work on this stupid thing so far. Yes I don't feel like I've worked on the problem itself enough but still! People aren't even using slack or not looking on it very much.
+
+Yes perhaps I'm the only one who wants it, or wants it enough to say anything. Who knows. I'm trying really hard to not be mad or butt hurt about it because it's really not that big of a deal and doesn't really focus on the core part of our project. Lately I've been focusing on [[Seek first to understand then to be understood]]. I haven't quite brought myself to a place where I can be kind enough to do this with my team (plus a lot of people I feel like don't really care and just don't want people to argue about it anymore). I mostly want to talk to Chad who seems to have become a die-hard Google Drive advocate overnight, but I'm afraid that I wouldn't say things right and he would just get mad if I brought up the topic.
+
+[later]
+
+Okay I read over the comments that people had. Mostly it appears that people are worried about all the unknowns and that it will add friction to our work flow. Which makes sense. It was probably too hard to do in such a short period of time. They are students, so it shouldn't be that crazy that they don't have time or energy to learn Markdown. Google Docs is easy and "predictable".
+
+= Gym or not to Gym =
+
+In other news, me and Jessica are trying to decide on whether we should sign up for Gold's gym. I'm afraid school will get in the way.  But I kind of feel we have to do it or else we won't make any progress. Even if we're not 100%.
+

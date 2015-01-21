@@ -1,0 +1,102 @@
+= Term Paper = 
+
+== PURPOSE ==
+The purpose of the term paper is to give students the opportunity to do 
+individualized study to develop in depth familiarity with a specific area of 
+research in the Artificial Intelligence (AI) field, and to have the 
+opportunity to teach what they have learned to the rest of the 
+class.
+
+== SUBJECT ==
+The subject selected must be a topic relating to the field of AI as defined in 
+this course. In general, you will be _expected to review the history of the 
+topic_, the _current developments_ in the area selected by thoroughly searching 
+the technical literature, reporting a summary of that material, drawing 
+conclusions from it, and relating how that information could be applied in a 
+practical situation.  
+
+You are expected to investigate your topic thoroughly, 
+going beyond the level of presentation found in the course text. The main 
+content of the paper will be shared with the class in a 20 to 25 minute [[presentation]].
+
+== SUGGESTIONS FOR TOPICS ==
+You are encouraged to select a topic that is of interest to you and one with 
+sufficient published material to result in a high quality paper. The following 
+list of topics is presented to help your thought processes get 
+started:
+
+* The Turing Test 
+* The LISP programming language 
+* The PROLOG programming language 
+* Google driverless car 
+* Watson- The Jeopardy playing machine 
+* Chess playing machines – Big Blue 
+* Neural Networks 
+* Fuzzy Logic 
+* Language Translation machines 
+* CAPTCHA 
+* Genetic Algorithms 
+* “Strong AI” the limits of machine intelligence 
+* AI in video games 
+* Algorithms for GPS route planning 
+* Heuristic algorithms used by humans to make decisions 
+* Recent advances in Robotics 
+* Artificial vision 
+* Data Mining 
+* Virtual Reality 
+* Speech recognition
+* Home cleaning robots 
+* Expert Systems (specific application) This in not an exhaustive list. Other suggestions are welcomed.
+
+== TOPIC APPROVAL ==
+You are to submit a short written statement via e-mail specifying the topic 
+you would like to write about.  In your e-mail briefly indicate the extent to 
+which you will cover the subject area. All topics must receive my approval 
+before they are considered acceptable for fulfilling the term paper requirement
+. In general, no two students will be allowed to have the same topic. Approval 
+will be granted on a first come, first served basis.
+
+== SOURCES ==
+Your reference material must be drawn from reputable sources.  Some material 
+from the popular computing literature is OK, but the majority of material must 
+come from recent technical books, and journals or conference proceedings 
+published by IEEE or ACM.  Examples of acceptable journals are: IEEE Software, 
+IEEE Computer, IEEE Transactions on Software Engineering, and Communication of 
+the ACM.  Material may also come from conference proceedings, and high quality 
+technical reports.
+
+== LENGTH OF PAPER ==
+The main requirement is thorough treatment of the subject. Showing depth of 
+understanding in a relatively narrow area is preferable to shallow treatment 
+of a broad topical area. I would anticipate that most papers should be:
+- _5 to 10 pages in length._
+- All papers are to be typed.
+- Pages are to be single spaced, 
+- have minimum margins of 3/4 inch, and 
+- use a 12 point font.
+
+== FORMAT AND CONTENT ==
+The paper must be typed and organized to generally follow the format shown 
+below. Any illustrations, drawings, tables or graphs must be neatly done, 
+titled, and properly referenced and explained in the text of the paper. Use of 
+material from published sources must be properly referenced and supported by 
+proper citation with complete bibliographic information provided. Use the ACM 
+or IEEE referencing style which you can find in use in any IEEE or ACM 
+publication.
+
+Remember that most of your papers are "library research" documenting existing 
+concepts. No specific intention exists to require you to develop original 
+concepts, ideas or techniques beyond what is required to present your 
+interpretation of the material you are investigating. You may wish to 
+illustrate your understanding of a concept by creating your own example of its 
+application. Also, you may include original material if you wish but it will 
+be subject to my evaluation and its dissemination cannot be restricted. A 
+typical term paper _outline_ might look like this:
+* Title page
+* Introduction (statement of topic, problem area, etc. and why it is important) 
+* Review of previous work (review or summary of the literature surveyed with proper references, and/or results from implementations or evaluations) 
+* Interpretation and application of concepts 
+* Conclusions 
+* Bibliography (reference list for citations appearing in your paper) 
+* Optional Appendix (attach copies of any material you think is appropriate for inclusion such as articles referenced in your paper, or other material  from web sites, listings of any programs developed, etc.)
+

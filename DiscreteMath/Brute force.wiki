@@ -1,0 +1,16 @@
+= Brute force =
+
+[[Mysteriousness]] part 2 and 3 use [[Brute force]] (9146 years?)
+
+Beware that the ape rent easiness may still have bugs in edge cases
+
+= Strengths =
+Brute force run in a realistic amount of time _only on very small instances!_.
+
+= Weaknesses =
+
+Many times theres much better algorithms
+
+[[Euler circuits]]
+[[shortest paths]]
+[[minimum spanning tree]]

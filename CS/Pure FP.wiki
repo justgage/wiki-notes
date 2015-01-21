@@ -1,0 +1,3 @@
+= Pure Functional Programing =
+
+Deals with only mathematical style functions. Meaning ones that don't have any concept of [[state]].

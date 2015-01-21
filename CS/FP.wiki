@@ -1,0 +1,6 @@
+= Functional Programing =
+
+See also: [[Pure FP]]
+
+* Functions are central
+* Functions that take functions a parameters

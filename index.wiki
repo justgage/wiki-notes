@@ -1,0 +1,17 @@
+= Gage's Wiki =
+
+Hello, This is the homepage of Gage Peterson. I'm a [[CS/index|Computer Science]] student at [[http://www.byui.edu|BYU-I]]
+
+I'm a lover of [[books]] (mostly about programming).
+
+I have a place to collect [[principles/index|principles]].
+
+Or perhaps to write a [[manifesto]].
+
+There's also a [[diary/diary|Blog]].
+
+School notes: [[TODO]]
+- [[NewTest/index|New Testiment]]
+- [[AI/index|AI]]
+- [[DiscreteMath/index|Discrete Math]]
+- [[Software1/index|Software Engineering]]
