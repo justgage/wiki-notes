@@ -1,0 +1,9 @@
+= Producing the whitnesses =
+
+Proving [[Big-Oh]]. 
+
+g(n) element of O(f(n))
+
+k and c are where `g` and `f` cross
+
+

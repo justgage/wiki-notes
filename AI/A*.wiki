@@ -1,0 +1,39 @@
+= A* path finding algorithm =
+
+= Class runthrough =
+
+(see graph in notes)
+
+| Step | Path | Est. Cost | Explored | Fronteer      |
+|------|------|-----------|----------|---------------|
+| 1    | A`   | 4         | []       | [A4]          |
+| 2    | AC   | 4         | [A]      | [C4 B6 D10]   |
+| 3    | ACE  | 5         | [AC]     | [E5 B6 F6 D7] |
+| 4    | i    | 5         | [ACE]    | [F5 B6 D7]    |
+| 5    |      |           | [ACEF]   | [G5 B6 D7]    | // G = 1 + 2 + 1 + 1 => 5 (path cost along ACEFG)
+
+[[admissable]] [[huristic]] => always optimistic
+
+
+Theroem says "it is [[optimal]]".
+Theorem is true if it is [[admissable]].
+
+[[time complexity|Time complexity]] is [[exponential]]
+
+if you can get an error down it will make it 
+
+Space complexity is a problem because it keeps all nodes in memory
+
+WAY TOO MUCH MEMORY is it's main weakness, thus there's many other
+algorithms that try to cut down on memory (but are less efective)
+
+
+
+
+
+
+
+
+
+
+

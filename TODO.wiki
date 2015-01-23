@@ -1,20 +1,27 @@
+
 = [[DiscreteMath/index|Discrete Math 3]] = 
-- [ ] Review [[log]]
-- [ ] Memorize quote
-- [ ] Exploration [[Mysteriousness]]
-   - [ ] Finnish 2nd part
-   - [ ] Finnish 3rd part
-      - [ ] Ask for help after stuff
-      - [ ] Spend on 3 hours on part 3
 - [ ] In class quiz
    - [ ] I will review my answers and the correct answers to the two versions of this quiz.
    - [ ] If I don't have or can't find my answers, I will come talk to Brother Neff to review these quizzes.
    - [ ] I will review the properties of logarithms in connection with comparing the orders of growth of two logarithmic functions.
    - [ ] I will review the properties of limits in connection with comparing orders of growth.
-   - [ ] I will review the properties of the derivatives of polynomial and exponential functions.
+   - [ ] I will review the properties of the [[derivatives]] of polynomial and exponential functions.
+   - [ ] Review [[log]]orithms
+   - [ ] I know what [[running time]] as a function of n means.
+   - [ ] I know what it means to prove that some function is [[Big-Theta]](something) using [[limits]].
+   - [ ] I know how to [[produce witnesses]] to the Big-Oh-ness of a given function.
+- [ ] Finnish 2nd part
+- [ ] Finnish 3rd part
+   - [ ] Ask for help after stuff
+   - [ ] Spend on 3 hours on part 3
+- [ ] Look at it
+- [ ] I know how to analyze a given algorithm, and can find its [[Big-Oh]], [[Big-Omega]] and [[Big-Theta]] class.
+- [ ] I know what [[running time]] as a function of n means.
+- [ ] I know what it means to prove that some function is [[Big-Theta]](something) using [[limits]].
+- [ ] I know how to [[produce witnesses]] to the Big-Oh-ness of a given function.
 
 = [[AI/index|AI]] = 
-- [ ] What's next.
+- [ ] Start working on [[Term Paper]]
 
 = [[NewTest/index|New Testiment]] = 
 - [ ] Wed Study
@@ -24,4 +31,4 @@
 
 = [[Software1/index|Software 1]] = 
 - [ ] Talk to Ercanbrac
-- [ ] Ethnography\n
+- [ ] Ethnography on someone\n

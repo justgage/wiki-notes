@@ -1,0 +1,14 @@
+= Important Problem Types =
+
+# Sorting
+# Searching
+# String processing
+   - Stream of characters
+# Graph Problems
+   - Traveling sailsman
+   - Graph coloring
+# Combinitoral Problem
+   - Most difficult problems
+# Geometric problems
+# Numerical problems
+

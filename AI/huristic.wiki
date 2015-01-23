@@ -1,0 +1,28 @@
+= Heuristic =
+
+Heuristic functions estimate costs of shortest paths
+ 
+Can dramatically reduce search cost!
+
+Every state has a heuristic associated with it ([[optimistic]] amount of moves you have to make)
+
+* Are there heuristics that are [[admissable]] and not [[consistant]]?
+   - Very few do.
+
+
+
+EG: Indiana Jones trying to stuff as much valuables in to our knapsack
+heuristic = (value*sizeMax)/size
+
+Good heuristics are hard to find!
+
+== multiple heuristics ==
+(both [[admissible]]) dominance -> one is always equal to or greater to the other (no sense of using the other)
+
+Always take the MAX
+
+== how to get a good one? ==
+- no solid way 
+
+[[Traveling salisman]] -> change to a minimum spanning tree and then your much easier
+

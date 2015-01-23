@@ -1,0 +1,17 @@
+*Setting:* Byui.edu (laptop) in the cross-roads looking for a tutor for the first time
+
+*Actors:* Susan is a freshman 
+
+*Event:* 
+
+# Immediately following his first Discrete math class
+# She Googles for TutorTrac and finds it.
+# She looks around the page and finds the way to start finding tutors
+# She selects which class she wants to get a tutor for
+# She navigates the calender to see which time she can do
+# She selects a time at 3pm
+# She selects a tutor available for that time
+# She looks at the profile for the tutor and decides they look good
+# She enters a reason for her appointment
+# She hits "submit"
+

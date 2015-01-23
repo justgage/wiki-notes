@@ -1,0 +1,9 @@
+2 huristics
+# Number of misplaced tiles
+# [[Manhattan distance]]
+
+every state has a huristic assosiated withit ([[optimistic]] amount of moves you have to make)
+
+multiple [[huristics]] (both admissable) dominace -> one is always equal to or greater to the other (no sense of using the other)
+
+

@@ -1,0 +1,16 @@
+= Chapter 4 [[Decrease-and-Conquer]] = 
+
+*Def:*
+- [[incremental aproach]]
+- [[bottom-up]]
+- [[top-down]]
+
+3 major variations:
+# Decrease by a constant
+# Decrease by a constant factor
+# Variable size decrease
+
+[[topological sorting]] 
+
+
+

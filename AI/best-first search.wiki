@@ -1,0 +1,5 @@
+use estimate instead of actual cost
+
+"may cut down on time  but your not garenteed to find an optimal"
+
+

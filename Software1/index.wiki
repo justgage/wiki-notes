@@ -2,6 +2,7 @@
 
 To-Do:
 - [ ] Talk to Ercanbrac
-- [ ] Ethnography
+- [ ] Ethnography on someone
 
 
+[[User Stories]]

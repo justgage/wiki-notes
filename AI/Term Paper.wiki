@@ -1,5 +1,7 @@
 = Term Paper = 
 
+__Your topic__: LISP
+
 == PURPOSE ==
 The purpose of the term paper is to give students the opportunity to do 
 individualized study to develop in depth familiarity with a specific area of 

@@ -1,13 +1,14 @@
 = Test 1 =
 
-On test:
+See [[index|todo]]
 
-- Memorize kanuth's quote:
+- [ ] Review [[log]]
+- [ ] I know the FULL definition of algorithm.
+- [ ] I know Donald [[Knuths quote|Knuth's quote]] about algorithmic thinkers, and if not, I will consider using the help provided by http://www.memorizenow.com/.
+- [ ] I know how to match [[problem types]] to their descriptions.
+- [ ] I know how to analyze a given algorithm, and can find its [[Big-Oh]], [[Big-Omega]] and [[Big-Theta]] class.
+- [ ] I understand the differences between the [[basic efficiency classes]].
+- [ ] I know what [[running time]] as a function of n means.
+- [ ] I know what it means to prove that some function is [[Big-Theta]](something) using [[limits]].
+- [ ] I know how to [[produce witnesses]] to the Big-Oh-ness of a given function.
 
-    Computer Science and Engineering is a field that attracts a different kind of thinker.  I believe that one who is a natural computer scientist thinks algorithmically.  Such people are especially good at dealing with situations where different rules apply in different cases; they are individuals who can rapidly change levels of abstraction, simultaneously seeing things “in the large” and “in the small.”
-
-- [[Finding the witnesses]]
-
-Chapter [[2]] Exersizes are highly helpful
-
-Know [[limits]]

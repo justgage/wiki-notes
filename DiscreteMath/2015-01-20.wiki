@@ -30,7 +30,7 @@ Mystery function <zz, zz> return -> string
    
    [[Mysteriousness]] part 2??
 
-better ways for these?
+Better ways for these?
 - [[Magic Squares]]
 - [[String matching]] O(nm)
 - [[Closest Pair]]
@@ -45,7 +45,7 @@ better ways for these?
 == Depth first search ([[DFS]]) ==
 == Breadth first search ([[BFS]]) ==
 
-Which to use? Same (basicly) [[bigO]] value.
+Which to use? Same (basically) [[bigO]] value.
 
 Thursday: 3 hours in problem 3 in [[Mysteriousness]]
 

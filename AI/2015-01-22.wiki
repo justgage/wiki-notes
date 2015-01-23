@@ -1,0 +1,12 @@
+
+def [[consistant]]
+
+def [[huristic]]
+
+[[best-first search]]
+
+[[Greedy search]]
+
+[[A*]]
+
+[[The 8 puzzle]]

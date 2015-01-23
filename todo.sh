@@ -7,7 +7,7 @@ AI=$(grep -h "\[ \]" --color=never AI/**.wiki)
 newTest=$(grep -h "\[ \]" --color=never NewTest/**.wiki)
 Software1=$(grep -h "\[ \]" --color=never Software1/**.wiki)
 
-printf "= [[DiscreteMath/index|Discrete Math 3]] = \n%s" "$disc"  > TODO.wiki
+printf "\n= [[DiscreteMath/index|Discrete Math 3]] = \n%s" "$disc"  > TODO.wiki
 
 printf "\n\n= [[AI/index|AI]] = \n%s" "$AI"  >> TODO.wiki
 

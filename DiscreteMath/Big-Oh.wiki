@@ -1,0 +1,8 @@
+= Big-oh =
+
+= Proving Big-Oh =
+
+- by induction (pdf)
+- by "other means" (pdf)
+
+[[produce witnesses]] 

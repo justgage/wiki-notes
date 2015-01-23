@@ -1,0 +1,11 @@
+= Magic Squares =
+A Grid of `n` size that has the numbers 1..n^2,
+
+each number only apears once in the grid
+
+The [row, col, diag] sum to `the-same-num`
+
+
+
+
+

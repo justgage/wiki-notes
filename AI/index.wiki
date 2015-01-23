@@ -4,11 +4,10 @@
 
 
 To-Do:
-- [X] Pick a topic!
-- [ ] What's next.
 
 = Projects: =
 - [[Term Paper]]
+- [ ] Start working on [[Term Paper]]
 - [[Project 1]]
 - [[Project 2]]
 
@@ -17,4 +16,10 @@ To-Do:
    * [[Rational Agents]]
    * [[Learning Agents]]
 * Ch 3
+
+= class =
+
+- [[2015-01-22]]
+
+
 
