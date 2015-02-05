@@ -1,10 +1,10 @@
-= Algorithm Consistancy =
+= Algorithm Consistency =
 
-Conserned with [[huristic]] algrorithms?
+Concerned with [[huristic]] algorithms
 
-is [[A*]] consistant?
+Is [[A*]] consistent?
 
-the distance between 
+The distance between 
 
 h       h
 x --c-- y
@@ -19,6 +19,9 @@ h      <= h' + c
 h - h' <= c
 
 
+
+
 *Review this!*
 
-if consistant has to be [[admissable]]
+If consistent has to be [[admissable]]
+

@@ -12,14 +12,16 @@ To-Do:
 - [[Project 2]]
 
 = Definitions =
-* Ch 2
-   * [[Rational Agents]]
-   * [[Learning Agents]]
-* Ch 3
+* [[Ch 2]]
+* [[Ch 3]]
+* [[Ch 4]] Beyond Classical Search
 
 = class =
 
 - [[2015-01-22]]
+- [[2015-01-27]]
+- [[2015-01-29|2015 01 29 Non-deterministic Search]]
+- [[2015-02-03]]
 
 
 

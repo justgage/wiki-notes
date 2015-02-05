@@ -1,0 +1,4 @@
+- Combined random and greedy hill climbing to help find things other than local max
+- "Temperature" -> leap to find a new area distance instead of being greedy
+   - Temperature lessens till none in which it will only be greedy
+- Like a ping-pong ball shake hard enough to change

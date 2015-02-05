@@ -1,0 +1,11 @@
+= Iterative deepening depth-first search =
+
+A [[DLS]] done where it continues to to increase the limit till we find a goal node
+
+Seems grossly wasteful but in fact most of the nodes are in the bottom so it isn't too bad.
+
+Combines the benifits of [[DFS]] and [[BFS]].
+
+_is prefered when uninformed search method when the search space is large and the depth of the solution is not known_
+
+

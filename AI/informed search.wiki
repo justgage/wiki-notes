@@ -1,0 +1,3 @@
+= informed search = 
+
+One that uses problem-specific knowledge beyond the definition of the problem itself-- can find solutions more efficiently than an uniformed strategy

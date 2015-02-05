@@ -1,0 +1,16 @@
+= Test 2 =
+
+review 
+- Q4
+- Q6
+- Q7
+- Q8
+- Q9
+- Q10 <-
+- Q11 <- W(n +1)
+- Q12 <- coin flipping, [[pancake]] , [[josephus]]
+
+- Q13 <- 
+- Q14
+- Q15
+- Q16

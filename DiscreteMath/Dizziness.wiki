@@ -1,0 +1,21 @@
+= Dizziness =
+ 
+Implement Strassen's algorithm.
+
+that's pretty much it?
+
+    helper functions to get a quadrant and set a quadrent
+    
+
+No padding (with zeros) code!
+
+Collaberate interpartner
+
+Least work exploration?
+
+Implement the * operator
+
+
+
+
+

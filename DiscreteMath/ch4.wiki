@@ -12,5 +12,44 @@
 
 [[topological sorting]] 
 
+= 4.1 =
+* 4.1 Insertion Sort [[IS]]
+
+== Exercises ==
+
+4. Design a decrease-by-one algorithm for generating the power set of a set of 
+n elements. (The power set of a set S is the set of all subsets of S, 
+including the empty set and S itself.) Give yourself up to 5 points for a good 
+design, no implementation necessary.  
+
+* Start with n binary digits (one for each element of the set.
+* Iterate from zero till the binary number is all 1s
+   * as you do so print out all the elements related to the current 1s in number
+
+5. Consider the following algorithm to check connectivity of a graph defined 
+by its adjacency matrix.
+
+(see p1.137)
 
 
+have an adjacency matrix
+
+
+ `0 indexed -> n-1`
+
+eg:
+ 
+| v | l | l | l | l |
+| 1 | v | l | l | l |
+| 0 | 0 | v | l | l |
+| 0 | 1 | 0 | v | l |
+| 0 | 0 | 1 | 1 | v |
+
+one ^|v for all <->
+
+Doesn't work in instances where the one at [0,0] = 1 
+
+
+= 4.3 Algorithms for generating Combinatorial Objects = 
+
+Dealing with combinatorial objects

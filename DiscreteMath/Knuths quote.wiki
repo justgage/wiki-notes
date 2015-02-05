@@ -1,5 +1,5 @@
 
-Donald [[Knuths quote|Knuth's quote]] about [[algorithm|algorithmic]] thinkers, 
+Donald Knuth's quote about [[algorithm|algorithmic]] thinkers, 
 and if not, I will consider using the help provided by http://www.memorizenow.com/.
 
     Computer Science and Engineering is a field that attracts a different kind 

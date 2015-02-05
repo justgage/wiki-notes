@@ -1,0 +1,34 @@
+= Non-determistic search =
+
+Today 8
+
+- [ ] watch miderms
+- [ ] work on paper
+
+= Quiz =
+
+- [[belif state]]
+- [[And-Or-Graph]] 
+
+= Readings Report =
+
+- Deterministic -> Schocastic
+   - Not really sure whats going to happen
+   - Act before they have a fool-proof plan
+      - Acting often gives you more information!
+         - Why failing in learning is so important
+
+- We would like the [[agent]] to act rationaly even though it lacks infromation
+- Event Observable / determistic Envivornments may be unknown when search begins.
+   - Like a maze
+- precepts are useful when nondetermistic or partially obserable.
+- Looking for a plan that will work no matter what. (probably not going to happen very often, but you can get close)
+
+- [[AND-OR-GRAPH-SERCH]]
+- Solution is a sub-tree with
+   - goal node at every leaf
+   - One action for [[OR node]]
+   - Includes every outcome for each [[AND node]]
+   - If you can't find this you can't find a *for sure* solution
+
+

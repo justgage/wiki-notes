@@ -1,0 +1,7 @@
+= Insertion Sort [[IS]] =
+
+Like you would sort a deck of cards. 
+
+[[decrease-by-one]] algorithm
+
+[[shellsort]] is a better version

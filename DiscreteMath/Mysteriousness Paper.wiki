@@ -1,0 +1,26 @@
+= Mysteriousness paper =
+_Ways to solve it:_
+
+== 1. Brute force the robot ==
+
+* The one Neff gave us
+   * [ ] get this off-line
+
+== 2. ??? ==
+
+* Brute force the instructions
+   * 
+
+== 3. Defeat MM ==
+
+* get knowledge -> Synthesize
+
+* Ways to find MM
+   # Cultivate a beginners mind
+   # Question your Knowledge
+   # Seek criticism of your work
+   # Review the work of others
+   # Teach
+   # Relish the plateau
+
+* explore the graph of what you do not now

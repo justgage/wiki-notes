@@ -1,0 +1,7 @@
+= Ch 4 Beyond Classical Search =
+
+* 4.1 Local Search Algorithms and Optimization Problems
+   * 4.1.1 Hill-climbing search [[HCS]]
+   * 4.1.2 [[Simulated annealing]] 
+      * hill-climbing never make downhill moves 
+   * 4.1.4 Genetic algorithms [[GA]]

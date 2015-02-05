@@ -1,5 +1,6 @@
 = Algorithm = 
 
+= Definition (that we memorised) =
 a finite sequence of unambiguous instructions for solving a
 problem,
 

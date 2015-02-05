@@ -1,0 +1,7 @@
+= Values =
+
+like 2 or 42. They don't change. They are only true within the context of the time they where created (usually).
+
+AKA: Obama was president in 2015.
+
+

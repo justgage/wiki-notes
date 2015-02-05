@@ -4,4 +4,6 @@ Reading:
 * The Pragmatic Programmer
 
 Read:
+* Don't make me think
+* Mannageable JavaScript
 

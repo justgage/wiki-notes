@@ -1,9 +1,12 @@
 = 7 Habits of Highly Effective people =
 
+    "Humility is the mother of all virtues,
+    and courage is the father"
+
 - Independence
    1. [[Be Proactive]]
-   2. [[Begin with the End in Mind]]
-   3. Put [[First Things First]]
+   2. [[Begin with the End in Mind]] <- 2nd most neglected
+   3. Put [[First Things First]]     <- Most neglected
 - Interdependence
    4. [[Think win-win]]
    5. [[Seek first to understand then to be understood]]

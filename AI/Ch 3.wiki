@@ -1,0 +1,18 @@
+= Chapter 3 =
+   * 3.1 Problem-solving Agents
+   * 3.2 Example probs
+   * 3.3 Searching for solutions
+      * Tree search
+      * Graph-Search
+   * 3.4 Uniformed Search Strategies
+      * Breath-first search [[BFS]]
+      * Uniform-cost search [[UCS]]
+      * Depth-first search [[DFS]]
+         * Backtracking search [[BTS]]
+         * Depth-limited search [[DLS]]
+         * Iterative deepening depth-first search [[IDDFS]]
+      * Bidirectional search [[BDS]]
+   * 3.5 [[informed search|Informed]] ([[heuristic|Heuristic]]) Search Strategies
+      * Greedy best-first search [[GBFS]]
+      * [[A*]]
+   * 3.6 Heuristic functions

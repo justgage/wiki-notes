@@ -1,0 +1,5 @@
+= Complexing =
+
+A term by [[Rich Hickey]] that was a dead word. It means you introduced complexity into somthing.
+
+eg: "You complexed my module by putting that [[state]] in it!"

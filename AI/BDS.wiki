@@ -1,0 +1,2 @@
+= Bidirectional search =
+Run two searches at the same time from the goal and from the root

@@ -2,10 +2,10 @@
 
 Thoughts:
 - They are all related
-- Rappidly change levels of Abstraction
+- Rapidly change levels of Abstraction
 - Pay the price then _come talk to brother Neff_
 
-you create the criteara for the "Goodness of your algorithms"
+You create the criteria for the "Goodness of your algorithms"
 
 == Part 1 ==
 Implement ~Figure out~ how to Solve it
@@ -17,7 +17,7 @@ Factorization helps with melt
 
 Can't have duplicate values
 
-then use systems for solving linear equations [[Linear Algorithms]]
+Then use systems for solving linear equations [[Linear Algorithms]]
 
 Groups of letters that equal! eg: (P + L + N)
 
@@ -40,6 +40,9 @@ Information we can gather:
 Figure out what the question is.
 
 - Pray! (about the algorithm) 
+
+[[Mysteriousness Paper]]
+
 
 
 

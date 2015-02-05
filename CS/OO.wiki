@@ -10,3 +10,6 @@ Reasons:
 * Says nouns are bigger than verbs which often is not the case
    * Nouns escoting verbs around.
 * Not true to [[TOO]]
+
+Refrecnes:
+- [[http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html|Execution in the kingdom of Nouns]]

@@ -1,17 +1,25 @@
 = Gage's Wiki =
 
-Hello, This is the homepage of Gage Peterson. I'm a [[CS/index|Computer Science]] student at [[http://www.byui.edu|BYU-I]]
+Welcome to the homepage of [[Gage Peterson]]!
 
-I'm a lover of [[books]] (mostly about programming).
-
-I have a place to collect [[principles/index|principles]].
-
-Or perhaps to write a [[manifesto]].
-
-There's also a [[diary/diary|Blog]].
-
-School notes: [[TODO]]
+My School notes: [[TODO]] (no cheating ;) please.)
 - [[NewTest/index|New Testiment]]
 - [[AI/index|AI]]
 - [[DiscreteMath/index|Discrete Math]]
 - [[Software1/index|Software Engineering]]
+
+
+I'm a [[CS/index|Computer Science]] student at [[http://www.byui.edu|BYU-I]]
+
+I'm a lover of [[books]].
+
+I have a place to collect [[principles/index|principles]].
+
+There's also a [[diary/diary|Blog]].
+
+And most importantly I'm a [[http://www.mormon.org/me/5ZRM|Mormon]].
+
+My thoughts on [[Religion/index|Religion]].
+
+
+

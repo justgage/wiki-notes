@@ -1,1 +1,3 @@
-= Admissible =
+= Admissible heuristics =
+* is one that never overestimates the cost to reach he goal
+* Optimistic by nature

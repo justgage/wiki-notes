@@ -1,0 +1,8 @@
+= Rich Hinkey =
+
+Creator of Clojure. And datomic.
+
+Genious.
+
+Has many good talks about:
+- Value of [[values]].

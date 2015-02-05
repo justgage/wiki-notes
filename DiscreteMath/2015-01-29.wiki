@@ -1,0 +1,56 @@
+
+- [[composite numbers]]
+
+= Review for Test 2 =
+- [[pancake]] problem?
+
+- 13 questions?
+   - Many of them are worth multiple points
+- [[DFS]] 
+- [[BFS]]
+- [[topological sorting|Topological sorting]]
+
+(incomplete) Breath-first search [[BFS]]
+Can you follow this algorithm
+- While queue not empty
+- ....
+- If W is marked with 0 (unvisited)
+- Initialize a count var
+- Increment count to mark each with the counting order
+- Add W to the queue
+- remove the front vertex from the queue
+ 
+ (handout?)
+ 
+= Josephus Problem =
+what do we need to know?
+- how the recurrence works
+
+= What's on the test? =
+- [[BFS]] fill in the 5 blanks for the correct words 1 word per blank
+- Tie breaker = Alphabetical (lexicographic)
+- Find the order with [[DFS]]
+- 22 points for both of those!
+
+- 86 points is about half
+- Apply the [[source removal]] problem using [[topological sorting]]
+- [ ] Learn multiplication ala ruse
+   - 13 blanks on question 10
+   - Multiplication of 2 digit numbers
+- [ ] [[fake coin]]
+   - [ ] know the number of comparisons log base 3?
+      - [ ] know base by [[branching factor]]
+   - [ ] Different algorithms?
+
+
+= Merge sort Algorithm =
+- Spit array A 1..n into two and make copies of each array
+- sort arrays B and C using Merge sort recursively
+- Merge sort efficiently O(n log n)
+- Space requirement O(n) when NOT in-place)
+- Can be done recursively
+- Can be done 
+- 
+ 
+
+

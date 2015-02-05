@@ -1,4 +1,8 @@
-= Discrete Math =
+= Discrete Math CS 306 =
+
+
+= TODO =
+
 - [ ] In class quiz
    - [ ] I will review my answers and the correct answers to the two versions of this quiz.
    - [ ] If I don't have or can't find my answers, I will come talk to Brother Neff to review these quizzes.
@@ -6,37 +10,39 @@
    - [ ] I will review the properties of limits in connection with comparing orders of growth.
    - [ ] I will review the properties of the [[derivatives]] of polynomial and exponential functions.
 
-Book:
+= Book =
 - [[ch1]]
 - [[ch2]]
 - [[ch3]]
    - [[3.1ex]]
 - [[ch4]]
 
-Tests:
+= Tests: =
 - [o] [[Test 1]]
    - [ ] Review [[log]]orithms
    - [X] I know the FULL definition of an [[algorithm]].
-   - [X] I know Donald Knuth's quote about algorithmic thinkers, and if not, I will consider using the help provided by http://www.memorizenow.com/.
+   - [X] I know [[Knuths quote|Donald Knuth]]'s quote about algorithmic thinkers, and if not, I will consider using the help provided by http://www.memorizenow.com/.
    - [X] I know how to match [[problem types]] to their descriptions.
    - [X] I know how to analyze a given algorithm, and can find its [[Big-Oh]], [[Big-Omega]] and [[Big-Theta]] class.
    - [X] I understand the differences between the basic [[efficiency classes]].
    - [ ] I know what [[running time]] as a function of n means.
    - [ ] I know what it means to prove that some function is [[Big-Theta]](something) using [[limits]].
    - [ ] I know how to [[produce witnesses]] to the Big-Oh-ness of a given function.
-
-Explorations:
-# [[Mysteriousness]]
-- [ ] Finnish 2nd part
-- [ ] Finnish 3rd part
-   - [ ] Ask for help after stuff
-   - [ ] Spend on 3 hours on part 3
-# [[Inquisitiveness]]
-- [ ] Look at it
-# [[Dizziness]]
-# [[Goodness]]
-# [[Vastness]]
+- [ ] [[Test 2]]
+- [ ] [[Test 3]]
 
 
-Class:
+= Explorations: =
+# [X] [[Mysteriousness]]
+# [ ] [[Inquisitiveness]]
+   - [ ] Look at it
+   - [ ] Write algorithms for a few sorts or somthing
+# [ ] [[Dizziness]]
+# [ ] [[Goodness]]
+# [ ] [[Vastness]]
+
+
+= Class: =
 - [[2015-01-20]]
+- [[2015-01-29]]
+- [[2015-02-03]]

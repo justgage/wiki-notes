@@ -1,0 +1,5 @@
+= Backtracking search =
+
+* variant of [[DFS]]
+* Usesless memory
+

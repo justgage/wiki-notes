@@ -1,0 +1,27 @@
+= Being a functional snobb =
+
+Lately all the things I've been reading about OO and FP and stuff have convinced
+me that OO is pretty awful! I'm still early enough in my learning that most of
+my thoughts I can't really verbalize completely all the time but I know in my
+gut that it's just awful. I mean mutable state isn't that hard to prove but it's
+so ingrained in OO and procedurall programing that it's hard to really make them
+see how much complexity it introduces into our code. I think one of the main
+reasons is the problem of it being *easy to explain but complecated in
+practice.* 
+
+I think one of the huge problems when I try to talk to them is these guys have
+never had to (truly) maintain code! I mean yes they have had to fix code the
+wrote, done a few projects perhaps and yes a few of them have had to deal with
+code written by others (which is a bit annoying but they all wrote that off as
+horribly written code, which it probably was!) but the fact is they haven't had
+to deal with any of their bad coding decisions for much longer than, a month?
+maybe even a couple of months if they worked in an internship? For most of them
+they really haven't seen how bad of a mess they can get themselves into if they
+don't build testable, maintainable, stable software. And even when they do they
+will probably write it off as, "a nature of the beast" or even worse perhaps
+somthing that can easily be solved by "X" design pattern or the all powerful
+MVC, rather than realizing where the main places of complexity come from. It
+reminds me of the Stewart skitt when his mother has him baby sat and the baby
+sitter has a hard time controlling him because he's really a full grown man when
+she complains to his mother about his behaviour the mother exlaims, "Oh Stewart
+is just a little boy! He couldn't hurt a fly"[paraphrased]. 

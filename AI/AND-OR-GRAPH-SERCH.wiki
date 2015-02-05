@@ -1,0 +1,63 @@
+= AND-OR-GRAPH-SERCH =
+
+
+[[OR nodes]] and [[AND nodes]] (two intertwining recursive functions)
+
+- [[OR nodes]] (circle)
+- [[AND nodes]] 
+
+- lines = actions 
+
+Process of thinking
+- State -> Actor acts -> Environment reacts in many possible ways (branches) -> States
+
+Process of really doing it
+- Actor acts -> Environment reacts -> Actor acts....
+
+
+*PURPOSE*: Looking for a [[contigency plan]]!
+
+
+CO -> call the or-search
+CA -> call the and-search
+RO -> return from or-search
+RA -> return from and-search
+
+| step | depth | action | operation | state | path  | states | return value |
+|------|-------|--------|-----------|-------|-------|--------|--------------|
+| 1    | 0     |        | CO        | A     | []    |        |              |
+| 2    | 1     | kick   | CA        |       | [A]   | [B]    |              |
+| 3    | 2     |        | CO        | B     | [A]   |        |              |
+| 4    | 2     |        | RO        |       |       |        | Failure      |
+| 5    | 1     |        | RA        |       |       |        | Failure      |
+| 6    | 1     | throw  | CA        | C     | [A]   | [C, D] |              |
+| 7    | 2     |        | CO        | C     | [A]   |        |              |
+| 8    | 2     |        | RO        |       |       |        |              |
+| 9    | 2     |        | CO        |       |       |        |              |
+| 10   | 3     |        | CA        | D     | [A]   |        |              |
+| 11   | 4     |        | CO        |       | [A D] | [EF]   |              |
+| 12   | 4     |        | RO        |       |       |        | []           |
+| 13   | 4     |        | CO        | F     | [A D] |        | []           |
+| 14   | 4     |        | RO        | F     | [A D] |        | Failure      |
+| 15   | 3     |        | RA        |       |       |        | Failure      |
+| 16   | 2     |        | RO        |       |       |        | Failure      |
+| 17   | 1     |        | RA        |       |       |        | Failure      |
+| 18   | 1     |        | CO        | G     | [A]   | [G]    | []           |
+| .... | ....  | ...    | ...       | ...   | ....  | ...    | ...          |
+
+
+
+
+
+[] -> (AND) -> B
+            -> C
+
+= Homework =
+
+| step | depth | action | operation | state | path | states | return value |
+|------|-------|--------|-----------|-------|------|--------|--------------|
+| 1    | 0     |        | CO        | 1     | []   |        |              |
+| 2    | 1     | suck   | CA        |       | [1]  | [1]    |              |
+| 3    | 1     |        |           |       |      |        |              |
+
+(see notebook for answer key, I got like a few into this before I got confused)

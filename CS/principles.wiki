@@ -2,3 +2,4 @@
 * [[KISS]]
 * You ain't gonna need it ([[YAGNI]])
 * Found in [[Pragmatic Programmer]]
+* [[Complexing]]

@@ -1,0 +1,11 @@
+= Hill-climbing search [[HCS]] =
+
+A [[greedy]] [[local search]].
+
+Grabs a good neighbor sate without thinking ahead about where to go 
+next. "One of the seven deadly sins" yet preforms quite well.
+
+However gets hung up when:
+- Local maxima
+- Ridges
+- Plateaux or shoulder can stop it

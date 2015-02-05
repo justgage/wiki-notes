@@ -1,0 +1,28 @@
+= Class =
+
+Test:
+- Know to know if a heuristic is [[admissible]] and [[consistent]] and [[A*]] 
+- A* actually will find the optimal path IF the heuristic is admissible
+
+= Review =
+
+- No algorithm is a silver bullet
+- The reason why we have [[GA]] and [[Greedy Search]] is because often we can't do a comprehensive search.
+
+== Iterative improvement algorithms ==
+- Problem is irrelevant
+- Goal is the solution
+
+- Need a Measure Optimality
+
+- Constraints are satisfied
+   - [[n queens]] problem
+      - Start with all queens on the board
+      - Have a heuristic that measures how close you are to having none of them attacking each others
+         - eg: number of ways they are attacking each other (# of conflicts)
+   - What if it 
+   - [[TSP]] 
+      - start with sub-optimal solution, then optimise
+- 
+
+

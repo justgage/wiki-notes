@@ -1,0 +1,39 @@
+= Quicksort Algorithm in words = 
+
+- Spit the list into two parts
+- Put all the larger on the right smaller than or equal to on the left
+(recursive)
+
+
+Best case:
+equal sizes in the 
+
+Average case: n log n
+
+Worst case : n^2
+
+
+Make it better?
+- Better pivot selection
+- Switch to insertion sort on small subfiles
+- elimination of recursion
+
+Best for Quicksort is considered the method of choice 
+for _internal_ sorting of large files (n >= 10000)
+
+[[insertion sort]]
+
+Java.array util <- uses QS 
+- uses insertion sort on 7 or less (QS calls it recursivly)
+
+[[Inquizitiveness]] 10,000 <- is the smallest you test
+
+
+= Next time =
+
+Chapter 6
+
+
+
+
+

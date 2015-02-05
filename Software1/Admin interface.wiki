@@ -1,0 +1,78 @@
+= Admin interface notes =
+
+= What do admins do =
+
+[[Stage-eps.byui.edu]] <- staging server
+
+Everthing an admin can do:
+- Tutoring centers Locations
+   - Create a "center"
+      - assign 
+         - Courses <- first
+            - have to manually
+            - Populated from Jenzabar
+               - Nightly export?
+         - Tutors
+            - use their I-number
+            - Doesn't pull in any information or emails
+            - Pictures from Jenzibar (icard photo)
+            - Mange Courses tutoring
+            - Edit directly from course
+               - which people are they assigned to?
+         - Scheduling
+            - Add a person without having an I-number
+            - Stop registration before x hours
+         - Videos
+            - Who can upload?
+               - Students? -> with stuff
+               - _Tutors? -> not currently_
+               - Admin yes!
+- Temp.Accounts
+- Impersonate
+- Location
+   - Create a location they can meet at.
+   - _Create costom place_ <- via tutors 
+- Prefrences
+   - Max number of appointments (50??)
+      - _better: hours_ 
+   - Email template
+      - Global 
+      - Tutor spesific details!
+- Reports
+   - Center usage
+      - Grand total
+      - Number of hours
+      - Number of weeks
+   - Student Report
+      - A bunch of filters (class, freshman, etc...)
+
+- Doesn't exist a way to be multiple roles!
+   - if your an admin you can't do Students things
+
+- Reason for videos
+   - __Online tutoring is really bad!__
+      - Ways to solve that = Videos?
+      - What about information?
+      - Quizes also
+         - Saris -> streight digital quizes
+            - I-pad instead of paper
+         - Flash cards
+
+- Tutor Report
+   - The way this works
+      - kiosk at tutoring center
+         - Has to be within amount of time.
+         - _Swype it checks you in and out_ <- need a system to do this!!!
+            - What happens if you do it late?
+            - twice?
+            - etc...
+         - Ideas
+            - Mark status even for acurate numbers
+            - Easier to mark 
+            - Make drop ins better *They are different*
+               - *Different types of centers*
+               - May visit centering center able to 
+               - Check in, Check out show who is there
+   - _Very painful to fill in! make it better!_
+- I-plan
+   - Tutoriing dashboards outside of the system

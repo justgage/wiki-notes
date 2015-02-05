@@ -1,0 +1,4 @@
+No repeat questions from test 2
+- [ ] Memorize the [[master theorem]] (not on a crib sheet)
+- [ ] Simple system of equations using Gaussian Elimination (MOST POINTS)
+- [ ] ... more online ... 

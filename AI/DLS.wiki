@@ -1,0 +1,2 @@
+= Depth-limited search =
+A [[DFS]] where we limit how deep it is.

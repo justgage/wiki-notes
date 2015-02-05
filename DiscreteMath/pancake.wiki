@@ -1,0 +1,17 @@
+= Recurrence Relation =
+
+== Way to solve it == 
+W(n) = W(n-1) + 2
+
+Use odd number thing 
+
+== Prove by induction ==
+[[IHOP]] w(n) = 2n-3;
+
+W(n+1) = 2+ W(n) = 2+2(n) - 3 = 2(n+1) - 3 // worsk case?
+
+^-- proof by inducion
+
+
+
+

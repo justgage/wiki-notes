@@ -1,8 +1,29 @@
 = Software Engineering 1 =
 
-To-Do:
-- [ ] Talk to Ercanbrac
-- [ ] Ethnography on someone
+What is this class about?:
+- Working with people.
+- Ways that our company goes about:
+   - finding requirements
+   - and designing the final product
 
+To-Do:
+- [ ] Do evaluations?
+- [ ] 01c Architectual styles
+   - [ ] Main problems
+   - [ ] Object to
+- [ ] 01d Software design
+   - [ ] Main problems
+   - [ ] Object to
+- [ ] 01e 
+   - [ ] Main problems
+   - [ ] Object to
+
+- [ ] SRS due!
+   - [ ] what do I need to do?
+      - [ ] Any requirements that need to be added
+      - [ ] Help refine
+      - [ ] etc...
 
 [[User Stories]]
+
+[[Admin interface]]
